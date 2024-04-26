@@ -1,3 +1,3 @@
-module github.com/KevuTheDev/monkey-interpreter
+module monkey-interpreter
 
-go 1.21.6
+go 1.22.0
